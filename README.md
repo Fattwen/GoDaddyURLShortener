@@ -1,7 +1,7 @@
 # GoDaddyURLShortener
 使用GoDaddy 短網址API 建立屬於自己網域的短網址生產器
 
-<img src="https://github.com/Fattwen/GoDaddyURLShortener/blob/master/preview.png"  width="400">
+<img src="https://imgur.com/PUXnNfF.png"  width="400">
 
 前往GoDaddy短網址服務：<https://shortener.godaddy.com/> (必須要有GoDaddy域名，並且到管理頁面設定好DNS)<br>
 <img src="https://imgur.com/yOVujoM.png"  width="400">
