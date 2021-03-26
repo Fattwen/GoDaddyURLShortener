@@ -1,0 +1,31 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+marquee{
+    margin-top: 10px;
+}
+marquee,strong{
+    color: white;
+}
+
+#main{
+    min-height: 100%;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    position: relative;
+    height: 20px;
+    color: white;
+}
+input[type=radio]{
+    width: 30px;
+    height: 30px;
+}
+
+.form-check-label{
+    color: white;
+    font-size: 30px;
+}
